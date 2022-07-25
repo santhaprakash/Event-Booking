@@ -1,0 +1,39 @@
+
+.linktest{
+    margin-right: 30px;
+    text-decoration:none;
+    color:black;
+    font-weight:500;
+    cursor: pointer;
+}
+.linktest:hover,.linktest:active{
+    margin-right: 30px;
+    color:#F4511E;
+    font-weight:500
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top:15px;
+    margin-bottom: 20px;
+}
+.logo
+{
+    font-weight:600;
+    letter-spacing:2px;
+    cursor:pointer;
+    cursor: pointer;
+}
+.logo:hover{
+    color:#F4511E;   
+}
+.contact{
+    cursor: pointer;
+    text-decoration: none;
+    color:black;
+}
+.contact:hover{
+    color:#F4511E;
+}

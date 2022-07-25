@@ -1,0 +1,23 @@
+.inputbox{
+    width:300px;
+    height:35px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding:8px
+}
+.inputbox:focus{
+    border: 2px solid #555;   
+}
+.error{
+    border-radius: 3px;
+    background-color:#ff4d4d;
+    padding:10px;
+    color:white;
+    font-size:10px;
+    text-align:center;
+}

@@ -1,0 +1,8 @@
+.body{
+    width: 100%;
+    height:100vh;
+    background: black url("https://www.pcma.org/wp-content/uploads/2021/06/Event-Marketing.jpeg") no-repeat ; 
+    background-size: 1500px 1000px;
+    z-index:-1000;
+    opacity: 0.8;
+}
